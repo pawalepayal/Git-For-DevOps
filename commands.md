@@ -31,5 +31,7 @@
 - `git config --global user.name "yourUserName"`: Set your name for commits.
 - `git config --global user.email "yourEmailID"`: Set your email for commits.
 
+##Branching
+
 ## HEAD Reference
 - `HEAD`: Refers to the latest commit on the current branch.
