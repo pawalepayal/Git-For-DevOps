@@ -1,0 +1,6 @@
+1. Generate SSH keys: ssh-keygen 
+2. Check created keys: cd ~/.ssh 
+3. Copy public key: cat id_rsa.pub
+4. Paste public key to GitHub under "SSH and GPG keys"
+5. Clone repository: git clone "SSH URL for repository" 
+6. Now try push and pull changes.
