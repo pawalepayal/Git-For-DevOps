@@ -35,3 +35,5 @@
 
 ## HEAD Reference
 - `HEAD`: Refers to the latest commit on the current branch.
+##.gitignore
+- .gitignore contains a untracked and the files which we wannted to igonre
