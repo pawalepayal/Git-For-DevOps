@@ -1,0 +1,6 @@
+# To add SSH configuration in Linux
+# Step 1 -> ssh-keygen: create public and private key
+# Step 2 -> check created keys: cd ~/.ssh
+# Step 3 -> copy public key and paste it to GitHub under "SSH and GPG keys"
+# Step 4 -> git clone "SSH URL for repository"
+# Now try push and pull
